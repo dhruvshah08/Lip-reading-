@@ -8,7 +8,3 @@ according to the needs of the user. Moreover, most proposals lip-read word-by wo
 and English. Furthermore, we cater to mixed-language speech recognition as well.
 
 The project is made using android studio, java and python and is made by fine-tuning with Meta's Avhubert model.
-
-
-Dataset link - https://drive.google.com/drive/folders/1Qvrs0I6Nz84yOmSfrnIctcII8cM2LfRs?usp=sharing
-
