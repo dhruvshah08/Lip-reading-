@@ -7,7 +7,7 @@ the audio is played in that specific emotion. The text output given by our appli
 according to the needs of the user. Moreover, most proposals lip-read word-by word and we did this process by a sentenceby-sentence basis. We hope to cater to people with disabilities, a focus not employed before. We created our own dataset to test this framework. Our dataset focuses on 2 languages- Hindi
 and English. Furthermore, we cater to mixed-language speech recognition as well.
 
-The project is made using android studio, java and python
+The project is made using android studio, java and python and is made by fine-tuning with Meta's Avhubert model.
 
 
 Dataset link - https://drive.google.com/drive/folders/1Qvrs0I6Nz84yOmSfrnIctcII8cM2LfRs?usp=sharing
